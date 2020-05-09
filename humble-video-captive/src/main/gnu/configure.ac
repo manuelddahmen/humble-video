@@ -196,10 +196,10 @@ AM_CONDITIONAL(VS_ENABLE_GPL,
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_FILES([Makefile
                  Makefile.global
-                 zlib/Makefile
-                 zlib/incarcerate
-                 zlib/install.sh
-                 zlib/uninstall.sh
+#                 zlib/Makefile
+#                 zlib/incarcerate
+#                 zlib/install.sh
+#                 zlib/uninstall.sh
                  openssl/Makefile
                  openssl/incarcerate
                  openssl/install.sh
